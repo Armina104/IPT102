@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MasohodSolution", "MasohodSolution\MasohodSolution.sqlproj", "{44D3EFE5-689F-4CDA-9B03-C00C2E2C847F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D3EFE5-689F-4CDA-9B03-C00C2E2C847F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D3EFE5-689F-4CDA-9B03-C00C2E2C847F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D3EFE5-689F-4CDA-9B03-C00C2E2C847F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{44D3EFE5-689F-4CDA-9B03-C00C2E2C847F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D3EFE5-689F-4CDA-9B03-C00C2E2C847F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D3EFE5-689F-4CDA-9B03-C00C2E2C847F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5BD2F36-FC59-49B9-8DE0-2A4ECE825AFA}
+	EndGlobalSection
+EndGlobal
