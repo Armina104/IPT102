@@ -1,0 +1,693 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MasohodIPT101.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MasohodIPT101.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\Alpha.jpg",
+      "PackagePath": "staticwebassets\\Alpha.jpg"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\Alucard.jpeg",
+      "PackagePath": "staticwebassets\\Alucard.jpeg"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\Estes.jpg",
+      "PackagePath": "staticwebassets\\Estes.jpg"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\Hayabusa.jpeg",
+      "PackagePath": "staticwebassets\\Hayabusa.jpeg"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\Nolan.jpg",
+      "PackagePath": "staticwebassets\\Nolan.jpg"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lunox.jpg",
+      "PackagePath": "staticwebassets\\lunox.jpg"
+    },
+    {
+      "Id": "D:\\MasohodSolution\\ArminaMasohodIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\profile.jpg",
+      "PackagePath": "staticwebassets\\profile.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MasohodIPT101.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MasohodIPT101.props",
+      "PackagePath": "build\\MasohodIPT101.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MasohodIPT101.props",
+      "PackagePath": "buildMultiTargeting\\MasohodIPT101.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MasohodIPT101.props",
+      "PackagePath": "buildTransitive\\MasohodIPT101.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

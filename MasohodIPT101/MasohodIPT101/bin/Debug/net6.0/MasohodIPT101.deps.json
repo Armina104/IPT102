@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MasohodIPT101/1.0.0": {
+        "runtime": {
+          "MasohodIPT101.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MasohodIPT101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,187 @@
+﻿@page
+@model MasohodIPT101.Pages.PicturesModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Grid</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 15px;
+            padding: 15px;
+            height: 100%;
+            box-sizing: border-box;
+        }
+
+        .image-item {
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;
+            border-radius: 12px;
+        }
+
+        .image-item img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        .label {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: rgba(0, 0, 0, 0.6);
+            color: #fff;
+            text-align: center;
+            padding: 15px;
+            box-sizing: border-box;
+            cursor: pointer;
+            transition: height 0.3s ease;
+        }
+
+        .description {
+            height: 0;
+            overflow: hidden;
+            opacity: 0;
+            transition: opacity 0.3s ease, height 0.3s ease;
+            background: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        .image-item.active .description {
+            height: auto;
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-grid">
+        <div class="image-item">
+            <img src="/Alpha.jpg" alt="Image 1">
+            <div class="label" onclick="toggleDescription(this.parentElement)">Alpha</div>
+            <div class="description">
+                <br />
+                Role: Fighter
+                <br />
+                <br />
+                Lane: Offlane
+                <br />
+                <br />
+                Alpha is a warrior with a noble heart and a sense of justice that drives him to protect
+                the innocent. Born into a lineage of knights, Alpha was trained in the art of combat from 
+                a young age. He carries a powerful shield and sword, symbolizing his commitment to justice
+                and valor. As a beacon of hope in the battlefield, Alpha's presence inspires his allies to
+                fight with courage and resolve.
+            </div>
+        </div>
+        <div class="image-item">
+            <img src="/Alucard.jpeg" alt="Image 2">
+            <div class="label" onclick="toggleDescription(this.parentElement)">Alucard</div>
+            <div class="description">
+                <br />
+                Role: Fighter/Assassin
+                <br />
+                <br />
+                Lane: Jungle/Offlane
+                <br />
+                <br />
+                Alucard is a legendary demon hunter known for his unyielding resolve and unparalleled skill
+                in combat. With a tragic past that fuels his relentless pursuit of justice, Alucard wields dual
+                blades with devastating precision. Once a noble warrior who lost everything to the demonic forces,
+                he now roams the land to rid it of evil and seek revenge for his fallen kin.
+            </div>
+        </div>
+        <div class="image-item">
+            <img src="/Estes.jpg" alt="Image 3">
+            <div class="label" onclick="toggleDescription(this.parentElement)">Image 3</div>
+            <div class="description">
+                <br />
+                Role: Support
+                <br />
+                <br />
+                Lane: Support/Offlane
+                <br />
+                <br />
+                Estes is a revered holy priest who dedicates his life to healing and protecting his allies. As a beacon
+                of hope and light, Estes possesses divine powers that allow him to mend wounds and shield his comrades from 
+                harm. With a deep connection to the celestial realm, he uses his healing abilities to turn the tide of battle
+                and ensure the survival of his team.
+            </div>
+        </div>
+        <div class="image-item">
+            <img src="/Hayabusa.jpeg" alt="Image 4">
+            <div class="label" onclick="toggleDescription(this.parentElement)">Hayabusa</div>
+            <div class="description">
+                <br />
+                Role: Assassin
+                <br />
+                <br />
+                Lane: Jungle/Offlane
+                <br />
+                <br />
+                Hayabusa is a master ninja who has honed his skills in the shadows. Trained from a young age in the art of stealth
+                and assassination, he wields deadly shurikens and is known for his lightning-fast movements and precise strikes. 
+                Driven by a quest for vengeance and a desire to protect his clan’s honor, Hayabusa is a formidable force in the battlefield,
+                capable of eliminating high-value targets with ease.
+            </div>
+        </div>
+        <div class="image-item">
+            <img src="/lunox.jpg" alt="Image 5">
+            <div class="label" onclick="toggleDescription(this.parentElement)">Lunox</div>
+            <div class="description">
+                <br />
+                Role: Mage
+                <br />
+                <br />
+                Lane: Midlane
+                <br />
+                <br />
+                Lunox is a mystical mage who wields the powers of both light and darkness. Gifted with the ability to manipulate these
+                opposing forces, Lunox balances her role as a harbinger of both creation and destruction. Her enigmatic nature and mastery
+                over time and space make her a formidable presence in battle. As a guardian of equilibrium, Lunox fights to maintain harmony
+                between light and darkness, using her unique powers to influence the course of war.
+            </div>
+        </div>
+        <div class="image-item">
+            <img src="/Nolan.jpg" alt="Image 6">
+            <div class="label" onclick="toggleDescription(this.parentElement)">Nolan</div>
+            <div class="description">
+                <br />
+                Role: Marksman
+                <br />
+                <br />
+                Lane: Gold Lane
+                <br />
+                <br />
+                Nolan is a vigilant marksman known for his precision and unwavering commitment to justice. As a renowned sharpshooter,
+                Nolan combines his exceptional marksmanship with a sense of duty to protect his homeland from the forces of darkness.
+                With a keen eye and an unyielding spirit, Nolan stands as a bastion of hope and righteousness on the battlefield.
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleDescription(element) {
+            // Toggle the 'active' class on the clicked item
+            element.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>

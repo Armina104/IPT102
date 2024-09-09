@@ -1,0 +1,118 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Profile Page</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .profile-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        .profile-header {
+            text-align: center;
+            padding: 30px;
+            background-color: #3498db;
+            color:Black;
+        }
+
+            .profile-header h1 {
+                margin-bottom: 10px;
+            }
+
+            .profile-header p {
+                font-size: 1.1em;
+            }
+
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 5px solid #fff;
+        }
+
+        .profile-content {
+            padding: 20px;
+        }
+
+            .profile-content h2 {
+                margin-bottom: 10px;
+                color: #3498db;
+            }
+
+            .profile-content p {
+                margin-bottom: 20px;
+                line-height: 1.6;
+            }
+
+        ul {
+            list-style-type: none;
+           
+        }
+
+            ul li {
+                margin-bottom: 10px;
+                padding-left: 10px;
+                position: relative;
+            }
+
+                ul li:before {
+                    position: absolute;
+                    left: 0;
+                    color: #3498db;
+                }
+
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <div class="profile-header">
+            <img src="/profile.jpg" alt="Profile Picture" class="profile-image">
+            <h1>Ynah Masohod</h1>
+            <p>Designer | Photographer</p>
+        </div>
+        <div class="profile-content">
+            <h2>About Me</h2>
+            <p>
+                Hi! I am Ynah Masohod, a passionate web developer with 5 years of experience in creating modern and responsive websites.
+                I love coding, designing, and photography. I'm constantly learning new technologies to improve my skills.
+            </p>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>React.js, Vue.js</li>
+                <li>Node.js, Express</li>
+                <li>Adobe Photoshop, Figma</li>
+                <li>Photography</li>
+            </ul>
+            <h2>Contact</h2>
+            <p>Email: ArminaMasohod@gmail.com</p>
+            <p>Phone: 09123456789</p>
+        </div>
+    </div>
+</body>
+</html>
+

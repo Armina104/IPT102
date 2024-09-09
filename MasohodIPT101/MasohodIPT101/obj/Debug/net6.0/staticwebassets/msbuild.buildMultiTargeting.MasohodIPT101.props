@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MasohodIPT101.props" />
+</Project>

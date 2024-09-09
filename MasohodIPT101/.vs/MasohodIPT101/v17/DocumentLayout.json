@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\AcostaIPT101\\MasohodIPT101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|s:\\acostaipt101\\masohodipt101\\masohodipt101\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|solutionrelative:masohodipt101\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|s:\\acostaipt101\\masohodipt101\\masohodipt101\\pages\\pictures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|solutionrelative:masohodipt101\\pages\\pictures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|s:\\acostaipt101\\masohodipt101\\masohodipt101\\pages\\videos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|solutionrelative:masohodipt101\\pages\\videos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|s:\\acostaipt101\\masohodipt101\\masohodipt101\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|solutionrelative:masohodipt101\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|s:\\acostaipt101\\masohodipt101\\masohodipt101\\wwwroot\\css\\util.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|solutionrelative:masohodipt101\\wwwroot\\css\\util.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|s:\\acostaipt101\\masohodipt101\\masohodipt101\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|solutionrelative:masohodipt101\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|s:\\acostaipt101\\masohodipt101\\masohodipt101\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|solutionrelative:masohodipt101\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|s:\\acostaipt101\\masohodipt101\\masohodipt101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{82AFA9E7-4A5D-48A0-AF8F-AF8DB7E636FD}|MasohodIPT101\\MasohodIPT101.csproj|solutionrelative:masohodipt101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pictures.cshtml",
+              "DocumentMoniker": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\Pages\\Pictures.cshtml",
+              "RelativeDocumentMoniker": "MasohodIPT101\\Pages\\Pictures.cshtml",
+              "ToolTip": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\Pages\\Pictures.cshtml",
+              "RelativeToolTip": "MasohodIPT101\\Pages\\Pictures.cshtml",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAAKsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T10:56:04.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Videos.cshtml",
+              "DocumentMoniker": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\Pages\\Videos.cshtml",
+              "RelativeDocumentMoniker": "MasohodIPT101\\Pages\\Videos.cshtml",
+              "ToolTip": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\Pages\\Videos.cshtml",
+              "RelativeToolTip": "MasohodIPT101\\Pages\\Videos.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T10:38:16.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "util.css",
+              "DocumentMoniker": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\util.css",
+              "RelativeDocumentMoniker": "MasohodIPT101\\wwwroot\\css\\util.css",
+              "ToolTip": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\util.css",
+              "RelativeToolTip": "MasohodIPT101\\wwwroot\\css\\util.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-05T10:34:09.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MasohodIPT101\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MasohodIPT101\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T10:25:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MasohodIPT101\\wwwroot\\css\\site.css",
+              "ToolTip": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MasohodIPT101\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAAMBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-05T09:57:09.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "MasohodIPT101\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAPsDAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-05T09:55:02.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MasohodIPT101\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MasohodIPT101\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T09:43:00.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MasohodIPT101\\Pages\\Index.cshtml",
+              "ToolTip": "S:\\AcostaIPT101\\MasohodIPT101\\MasohodIPT101\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MasohodIPT101\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T09:35:49.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

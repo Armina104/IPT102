@@ -1,0 +1,133 @@
+﻿@page
+@model MasohodIPT101.Pages.VideosModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Grid</title>
+    <style>
+        /* General Page Styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 20px;
+            color: #333;
+        }
+
+        .video-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .video-item {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+            .video-item:hover {
+                transform: scale(1.05);
+            }
+
+        .video-title {
+            padding: 15px;
+            text-align: center;
+            font-size: 18px;
+            background-color: #333;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+            height: 0;
+            background-color: #000; /* Fallback color */
+        }
+
+            .video-wrapper iframe {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                border: 0;
+            }
+    </style>
+</head>
+<body>
+
+    <h1>Videos</h1>
+
+    <div class="video-grid">
+        <div class="video-item">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/QNV2DmBxChQ?si=CzbkPdfv-mkVLXXb" title="Bini Karera" allowfullscreen></iframe>
+            </div>
+            <div class="video-title">Bini Karera</div>
+        </div>
+
+        <div class="video-item">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/Zx31bB2vMns?si=jvH76nhDSgtjcVQd" title="Bini Pantropiko" allowfullscreen></iframe>
+            </div>
+            <div class="video-title">Bini Pantropiko</div>
+        </div>
+
+        <div class="video-item">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/J1Ip2sC_lss?si=fWYcvi2QiuWJnShC" title="Bini Salamin" allowfullscreen></iframe>
+            </div>
+            <div class="video-title">Bini Salamin</div>
+        </div>
+        <div class="video-item">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/wufUX5P2Ds8?si=IEutvFKVhoETOwiN" title="Bini Cherry on Top" allowfullscreen></iframe>
+            </div>
+            <div class="video-title">Bini Cherry on Top</div>
+        </div>
+        <div class="video-item">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/vvGeK5JH-cI?si=D0vYvDYZKOfpNgYZ" title="DJ LAGI TAMVAN" allowfullscreen></iframe>
+            </div>
+            <div class="video-title">DJ LAGI TAMVAN</div>
+        </div>
+        <div class="video-item">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/oO7XZ86ePq0?si=AfDrbPeJqlx7yWm5" title="Dola" allowfullscreen></iframe>
+            </div>
+            <div class="video-title">Dola</div>
+        </div>
+        <div class="video-item">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/OHwxdBC5Cxs?si=WjSmsLuErnfN9ZAB" title="Fajaj Skali" allowfullscreen></iframe>
+            </div>
+            <div class="video-title">Fajaj Skali</div>
+        </div>
+        <div class="video-item">
+            <div class="video-wrapper">
+                <iframe src="https://www.youtube.com/embed/o3X6j7zlIhc?si=B67e-3yAuuvQJmwF" title="Papap Dol" allowfullscreen></iframe>
+            </div>
+            <div class="video-title">Papap Dol</div>
+        </div>
+
+    </div>
+
+</body>
+</html>
