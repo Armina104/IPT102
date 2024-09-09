@@ -1,0 +1,8 @@
+D:\Employee\MasohodSolution\MAsohodSolution\MasohodSolution\MasohodSolution\bin\Debug\MasohodSolution.dacpac
+D:\Employee\MasohodSolution\MAsohodSolution\MasohodSolution\MasohodSolution\obj\Debug\MasohodSolution.sqlproj.AssemblyReference.cache
+D:\Employee\MasohodSolution\MAsohodSolution\MasohodSolution\MasohodSolution\obj\Debug\Model.xml
+D:\Employee\MasohodSolution\MAsohodSolution\MasohodSolution\MasohodSolution\obj\Debug\refactor.xml
+D:\Employee\MasohodSolution\MAsohodSolution\MasohodSolution\MasohodSolution\obj\Debug\postdeploy.sql
+D:\Employee\MasohodSolution\MAsohodSolution\MasohodSolution\MasohodSolution\obj\Debug\predeploy.sql
+D:\Employee\MasohodSolution\MAsohodSolution\MasohodSolution\MasohodSolution\obj\Debug\MasohodSolution.dll
+D:\Employee\MasohodSolution\MAsohodSolution\MasohodSolution\MasohodSolution\obj\Debug\MasohodSolution.pdb
