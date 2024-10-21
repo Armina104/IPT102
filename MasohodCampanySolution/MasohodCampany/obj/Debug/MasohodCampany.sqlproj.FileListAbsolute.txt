@@ -1,0 +1,6 @@
+D:\IM102\MasohodCampanySolution\MasohodCampany\bin\Debug\MasohodCampany.dacpac
+D:\IM102\MasohodCampanySolution\MasohodCampany\bin\Debug\MasohodCampany.dll
+D:\IM102\MasohodCampanySolution\MasohodCampany\bin\Debug\MasohodCampany.pdb
+D:\IM102\MasohodCampanySolution\MasohodCampany\obj\Debug\MasohodCampany.sqlproj.AssemblyReference.cache
+D:\IM102\MasohodCampanySolution\MasohodCampany\obj\Debug\MasohodCampany.dll
+D:\IM102\MasohodCampanySolution\MasohodCampany\obj\Debug\MasohodCampany.pdb
