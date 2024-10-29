@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "MasohodWeb/1.0.0": {
+        "dependencies": {
+          "IPromo": "1.0.0"
+        },
         "runtime": {
           "MasohodWeb.dll": {}
+        }
+      },
+      "IPromo/1.0.0": {
+        "runtime": {
+          "IPromo.dll": {}
         }
       }
     }
   },
   "libraries": {
     "MasohodWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPromo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

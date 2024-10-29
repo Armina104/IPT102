@@ -91,27 +91,122 @@
     <div class="profile-container">
         <div class="profile-header">
             <img src="/profile.jpg" alt="Profile Picture" class="profile-image">
-            <h1>Ynah Masohod</h1>
-            <p>Designer | Photographer</p>
+            <h1>ThreadVerse</h1>
+            <p> Your voice matters—let’s thread our stories together!</p>
         </div>
         <div class="profile-content">
-            <h2>About Me</h2>
+            <h2>you’ll find joy and freedom to express yourself</h2>
             <p>
-                Hi! I am Ynah Masohod, a passionate web developer with 5 years of experience in creating modern and responsive websites.
-                I love coding, designing, and photography. I'm constantly learning new technologies to improve my skills.
+                Welcome to ThreadVerse!
+                A vibrant community where your stories weave the fabric of connection. Share your experiences, join themed challenges, and explore diverse narratives. Together, we create a tapestry of inspiration. 
+                Your voice matters—let’s thread our stories together!
             </p>
             <h2>Skills</h2>
             <ul>
-                <li>HTML, CSS, JavaScript</li>
-                <li>React.js, Vue.js</li>
-                <li>Node.js, Express</li>
-                <li>Adobe Photoshop, Figma</li>
-                <li>Photography</li>
+                <li>Communication</li>
+                <li>Time Management</li>
+                <li>Customer Service</li>
+                <li>At mag pa bebe sa anak ni ante</li>
+                <li>Active listening basta tchismis</li>
             </ul>
             <h2>Contact</h2>
             <p>Email: ArminaMasohod@gmail.com</p>
             <p>Phone: 09123456789</p>
         </div>
+    </div>
+</body>
+</html>
+<
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+    <link rel="stylesheet" href="path/to/bootstrap.css">
+    <script>
+        let input = {
+            name: '',
+            email: '',
+            number: ''
+        };
+
+        function handleSubmit(event) {
+            event.preventDefault();
+
+            // Access input values
+            const name = document.getElementById('InputName').value;
+            const email = document.getElementById('InputEmail').value;
+            const number = document.getElementById('InputNumber').value;
+
+            // Update the input object
+            input.name = name;
+            input.email = email;
+            input.number = number; 
+
+            // Display the input data
+            updateDisplay();
+
+            alert(`Form submitted!
+            Name: ${input.name}
+            Email: ${input.email}
+            Number: ${input.number}`);
+        }
+
+        function newStudent() {
+            // Reset input object and clear form fields
+            input = { name: '', email: '', number: '' };
+            document.getElementById('InputName').value = '';
+            document.getElementById('InputEmail').value = '';
+            document.getElementById('InputNumber').value = '';
+            updateDisplay();
+        }
+
+        function updateDisplay() {
+            document.getElementById('displayName').innerText = input.name;
+            document.getElementById('displayEmail').innerText = input.email;
+            document.getElementById('displayNumber').innerText = input.number; 
+        }
+    </script>
+</head>
+<body>
+
+    <form id="IPromo-form" onsubmit="handleSubmit(event)">
+        <div class="row">
+            <div class="col-2">
+                <div class="form-floating">
+                    <input type="text" id="InputName" class="form-control" placeholder="Name" />
+                    <label for="InputName">Name</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-2">
+                <div class="form-floating">
+                    <input type="email" id="InputEmail" class="form-control" placeholder="Email" />
+                    <label for="InputEmail">Email</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-2">
+                <div class="form-floating">
+                    <input type="text" id="InputNumber" class="form-control" placeholder="Number" />
+                    <label for="InputNumber">Number</label>
+                </div>
+            </div>
+        </div>
+
+        <button class="btn btn-primary" type="submit">Save</button>
+        <button class="btn btn-secondary" type="button" onclick="newStudent()">New</button>
+    </form>
+
+    <div>
+        <p>Name: <span id="displayName"></span></p>
+        <p>Email: <span id="displayEmail"></span></p>
+        <p>Number: <span id="displayNumber"></span></p>
     </div>
 </body>
 </html>

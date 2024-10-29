@@ -37,9 +37,16 @@
 <body>
     <div class="sidebar">
         <div class="logo-details">
-            <div class="logo_name">Home</div>
+            <div class="logo_name">Home Page</div>
             <i class="bx bx-menu" id="btn"></i>
         </div>
+        <li>
+            <a href="/User">
+                <i class='<box-icon name=' user'></box-icon>'></i>
+                <span class="links_name">User</span>
+            </a>
+            <span class="tooltip">User</span>
+        </li>
         <ul class="nav-list">
             <li>
                 <a href="/Index">
@@ -71,7 +78,7 @@
                 <span class="tooltip">Music</span>
                 
             </li>
-
+            </div>
         </ul>
     </div>
     <div id="main-content" class="home-section">
@@ -113,3 +120,56 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
+<!-- Footer Block Start -->
+<footer id="site-footer">
+    <div class="bg-success bg-opacity-25 py-5">
+        <div class="container py-3">
+            <div class="row">
+                <div class="col-xl-3 col-md-6 col-sm-12">
+                    <h5 class="pb-3"><i class="fa-solid fa-user-group pe-1"></i> About us</h5>
+                    <span class="text-secondary">This is a wider card with supporting text below as a natural lead-in to additional content.</span>
+                </div>
+                <div class="col-xl-3 col-md-6 col-sm-12">
+                    <h5 class="pb-3"><i class="fa-solid fa-link pe-1"></i> Important links</h5>
+                    <ul>
+                        <li><a href="#" class="text-decoration-none link-secondary">About us</a></li>
+                        <li><a href="#" class="text-decoration-none link-secondary">Privacy policy</a></li>
+                        <li><a href="#" class="text-decoration-none link-secondary">Terms of services</a></li>
+                    </ul>
+                </div>
+                <div class="col-xl-3 col-md-6 col-sm-12">
+                    <h5 class="pb-3"><i class="fa-solid fa-location-dot pe-1"></i> Our location</h5>
+                    <span class="text-secondary">
+                        Midsayap North Cotabato<br>
+                        Philippines<br>
+                        Asia<br>
+                    </span>
+                </div>
+                <div class="col-xl-3 col-md-6 col-sm-12">
+                    <h5 class="pb-3"><i class="fa-solid fa-paper-plane pe-1"></i> Stay updated</h5>
+                    <form>
+                        <input type="text" class="w-100 mb-2 form-control" name="" placeholder="Email ID">
+                        <button class="w-100 btn btn-dark">Subscribe now</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bg-dark py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-12">
+                    <ul class="list-inline mb-0">
+                        <li class="list-inline-item"><a class="btn btn-outline-secondary" href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                        <li class="list-inline-item"><a class="btn btn-outline-secondary" href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                        <li class="list-inline-item"><a class="btn btn-outline-secondary" href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                        <li class="list-inline-item"><a class="btn btn-outline-secondary" href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                        <li class="list-inline-item"><a class="btn btn-outline-secondary" href="#"><i class="fa-brands fa-github"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6 col-sm-12"><span class="text-secondary pt-1 float-md-end float-sm-start">Copyright &copy; 2023</span></div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer Block Start -->

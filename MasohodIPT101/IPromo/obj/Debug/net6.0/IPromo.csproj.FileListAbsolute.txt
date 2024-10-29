@@ -1,0 +1,12 @@
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\bin\Debug\net6.0\IPromo.deps.json
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\bin\Debug\net6.0\IPromo.dll
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\bin\Debug\net6.0\IPromo.pdb
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\obj\Debug\net6.0\IPromo.csproj.AssemblyReference.cache
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\obj\Debug\net6.0\IPromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\obj\Debug\net6.0\IPromo.AssemblyInfoInputs.cache
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\obj\Debug\net6.0\IPromo.AssemblyInfo.cs
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\obj\Debug\net6.0\IPromo.csproj.CoreCompileInputs.cache
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\obj\Debug\net6.0\IPromo.dll
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\obj\Debug\net6.0\refint\IPromo.dll
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\obj\Debug\net6.0\IPromo.pdb
+C:\MasohodIPT102\IPT102\MasohodIPT101\IPromo\obj\Debug\net6.0\ref\IPromo.dll
