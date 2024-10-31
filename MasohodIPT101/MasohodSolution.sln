@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPromo", "IPromo\IPromo.csp
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MasohodCampany", "D:\IM102\MasohodCampanySolution\MasohodCampany\MasohodCampany.sqlproj", "{E0FE810B-FDC1-465E-9F0F-53D4F95A94F7}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MasohodCompany", "MasohodCompany\MasohodCompany.sqlproj", "{ECA86C46-AAFD-4200-A837-2904B9AA8DA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,12 @@ Global
 		{E0FE810B-FDC1-465E-9F0F-53D4F95A94F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0FE810B-FDC1-465E-9F0F-53D4F95A94F7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E0FE810B-FDC1-465E-9F0F-53D4F95A94F7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{ECA86C46-AAFD-4200-A837-2904B9AA8DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA86C46-AAFD-4200-A837-2904B9AA8DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA86C46-AAFD-4200-A837-2904B9AA8DA1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ECA86C46-AAFD-4200-A837-2904B9AA8DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA86C46-AAFD-4200-A837-2904B9AA8DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA86C46-AAFD-4200-A837-2904B9AA8DA1}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

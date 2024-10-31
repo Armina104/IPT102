@@ -1,0 +1,10 @@
+C:\MasohodIPT102\IPT102\MasohodIPT101\MasohodCompany\bin\Debug\MasohodCompany.dacpac
+C:\MasohodIPT102\IPT102\MasohodIPT101\MasohodCompany\bin\Debug\MasohodCompany.dll
+C:\MasohodIPT102\IPT102\MasohodIPT101\MasohodCompany\bin\Debug\MasohodCompany.pdb
+C:\MasohodIPT102\IPT102\MasohodIPT101\MasohodCompany\obj\Debug\MasohodCompany.sqlproj.AssemblyReference.cache
+C:\MasohodIPT102\IPT102\MasohodIPT101\MasohodCompany\obj\Debug\Model.xml
+C:\MasohodIPT102\IPT102\MasohodIPT101\MasohodCompany\obj\Debug\refactor.xml
+C:\MasohodIPT102\IPT102\MasohodIPT101\MasohodCompany\obj\Debug\postdeploy.sql
+C:\MasohodIPT102\IPT102\MasohodIPT101\MasohodCompany\obj\Debug\predeploy.sql
+C:\MasohodIPT102\IPT102\MasohodIPT101\MasohodCompany\obj\Debug\MasohodCompany.dll
+C:\MasohodIPT102\IPT102\MasohodIPT101\MasohodCompany\obj\Debug\MasohodCompany.pdb
